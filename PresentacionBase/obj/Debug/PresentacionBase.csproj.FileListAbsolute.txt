@@ -1,0 +1,63 @@
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+C:\Users\user\source\repos\PF-D\PresentacionBase\bin\Debug\PresentacionBase.dll
+C:\Users\user\source\repos\PF-D\PresentacionBase\bin\Debug\PresentacionBase.pdb
+C:\Users\user\source\repos\PF-D\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\user\source\repos\PF-D\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\user\source\repos\PF-D\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PF-D\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+C:\Users\user\source\repos\PF-D\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+C:\Users\user\source\repos\PF-D\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+C:\Users\user\source\repos\PF-D\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+C:\Users\user\source\repos\PF-D\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+C:\Users\user\source\repos\PF-D\PresentacionBase\obj\Debug\PresentacionBase.Properties.Resources.resources
+C:\Users\user\source\repos\PF-D\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PF-D\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+C:\Users\user\source\repos\PF-D\PresentacionBase\obj\Debug\PresentacionBase.dll
+C:\Users\user\source\repos\PF-D\PresentacionBase\obj\Debug\PresentacionBase.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.Resources.resources
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\PresentacionBase\bin\Debug\FontAwesome.Sharp.dll
