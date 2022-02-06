@@ -1,0 +1,69 @@
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\obj\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\Aplicacion\obj\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\obj\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion\obj\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion\obj\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion\obj\Debug\Aplicacion.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll.config
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\Aplicacion\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\Aplicacion\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\Aplicacion\obj\Debug\Aplicacion.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\Aplicacion\obj\Debug\Aplicacion.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PF-D\Aplicacion\bin\Debug\Aplicacion.dll.config
+C:\Users\user\source\repos\PF-D\Aplicacion\bin\Debug\Aplicacion.dll
+C:\Users\user\source\repos\PF-D\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\user\source\repos\PF-D\Aplicacion\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\PF-D\Aplicacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\PF-D\Aplicacion\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\PF-D\Aplicacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\PF-D\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
+C:\Users\user\source\repos\PF-D\Aplicacion\obj\Debug\Aplicacion.dll
+C:\Users\user\source\repos\PF-D\Aplicacion\obj\Debug\Aplicacion.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll.config
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\Aplicacion\bin\Debug\Aplicacion.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\Aplicacion\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\Aplicacion\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\Aplicacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CopyComplete
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\Aplicacion\obj\Debug\Aplicacion.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\Aplicacion\obj\Debug\Aplicacion.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache

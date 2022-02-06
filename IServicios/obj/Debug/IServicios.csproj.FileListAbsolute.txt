@@ -1,0 +1,66 @@
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\obj\Debug\IServicios.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\obj\Debug\IServicios.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\obj\Debug\IServicios.csproj.CopyComplete
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\obj\Debug\IServicios.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\IServicios\obj\Debug\IServicios.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\bin\Debug\IServicios.dll.config
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\bin\Debug\IServicios.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\bin\Debug\IServicios.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\bin\Debug\Dominio.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\bin\Debug\Dominio.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\bin\Debug\Dominio.dll.config
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\obj\Debug\IServicios.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\obj\Debug\IServicios.csproj.CopyComplete
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\obj\Debug\IServicios.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PF\N-Commerce\IServicios\obj\Debug\IServicios.pdb
+C:\Users\user\source\repos\PF-D\IServicios\bin\Debug\IServicios.dll.config
+C:\Users\user\source\repos\PF-D\IServicios\bin\Debug\IServicios.dll
+C:\Users\user\source\repos\PF-D\IServicios\bin\Debug\IServicios.pdb
+C:\Users\user\source\repos\PF-D\IServicios\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\user\source\repos\PF-D\IServicios\bin\Debug\Dominio.dll
+C:\Users\user\source\repos\PF-D\IServicios\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\PF-D\IServicios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\PF-D\IServicios\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\user\source\repos\PF-D\IServicios\bin\Debug\Dominio.pdb
+C:\Users\user\source\repos\PF-D\IServicios\bin\Debug\Dominio.dll.config
+C:\Users\user\source\repos\PF-D\IServicios\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\PF-D\IServicios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\PF-D\IServicios\obj\Debug\IServicios.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PF-D\IServicios\obj\Debug\IServicios.csproj.CopyComplete
+C:\Users\user\source\repos\PF-D\IServicios\obj\Debug\IServicios.dll
+C:\Users\user\source\repos\PF-D\IServicios\obj\Debug\IServicios.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\bin\Debug\IServicios.dll.config
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\bin\Debug\IServicios.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\bin\Debug\IServicios.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\bin\Debug\Dominio.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\bin\Debug\Dominio.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\bin\Debug\Dominio.dll.config
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\obj\Debug\IServicios.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\obj\Debug\IServicios.csproj.CopyComplete
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\obj\Debug\IServicios.dll
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\obj\Debug\IServicios.pdb
+C:\Users\user\Desktop\TEC-PROGRAMACION\2 CUATRIMESTRE\LABORATORIO II DAUT\PROYECTO INTEGRADOR\N-Commerce\IServicios\obj\Debug\IServicios.csproj.CoreCompileInputs.cache
